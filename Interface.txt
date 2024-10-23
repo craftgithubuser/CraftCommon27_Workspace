@@ -1,0 +1,16 @@
+
+Interface - a blueprint of a class.
+
+Class is a blueprint/ of an object. logically existence
+
+object is an instance of a class. ()
+
+
+ interface Language {
+
+String name; //public static final String name
+
+  void getType(); //public abstract void getType();
+
+  void getVersion();//public abtract void getVersion();
+}
