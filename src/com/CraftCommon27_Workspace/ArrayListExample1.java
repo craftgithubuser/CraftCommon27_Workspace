@@ -15,9 +15,11 @@ public class ArrayListExample1 {
 		fruits.add("Apple");
 		fruits.add("Banana");
 		fruits.add("Orange");
+		fruits.add("Mango");
+		fruits.add("Avocado");
 
 		// replacing Orange by Grape
-		fruits.set(2, "Grape");
+		fruits.set(2, "Grapefruit");
 
 		// Accessing elements
 		System.out.println("First fruit: " + fruits.get(0));
