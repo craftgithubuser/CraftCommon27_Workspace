@@ -14,7 +14,7 @@ public class CollectionDemo1 {
 		numbers.add(22);
 		numbers.add(0, 10);
 		numbers.set(1, 20);
-		
+		numbers.add(50,100);		
 
 		Iterator it = numbers.iterator();
 		while (it.hasNext()) {
