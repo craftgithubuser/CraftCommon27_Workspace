@@ -1,0 +1,29 @@
+package craft27;
+
+import java.util.ArrayList;
+
+public class Launcher {
+
+	public static void main(String[] args) {
+		
+		 
+		 ArrayList<String> fruits = new  ArrayList<String>();
+		 
+		 fruits.add("Apple");
+		 fruits.add("Mango");
+		 fruits.add("Orange");
+		 
+		 
+		 ArrayList<Integer> numbers = new  ArrayList<Integer>();
+		 
+		 numbers.add(12);
+		 numbers.add(13);
+		 numbers.add(14);
+		 numbers.add(15);
+		 
+		 
+		 
+
+	}
+
+}

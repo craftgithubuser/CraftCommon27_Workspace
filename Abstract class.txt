@@ -7,8 +7,8 @@ abstract class Language{ //abstract class
 	  }
 	
 }
-class Java extends Language {
-	
+ class Java extends Language {
+	//override abstract method
 }
 
 public class AbstractMainDemo {
