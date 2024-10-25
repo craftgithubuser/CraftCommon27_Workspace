@@ -1,1 +1,2 @@
-Hello Class.
+
+Hello Class,To day we going to learn about branching.
