@@ -1,0 +1,43 @@
+package com.itret;
+
+public class animal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		
+		 int dog= 45;
+		 int cat= 60;
+		 int rabit= 35;
+		 int all= dog+cat+rabit; {
+		 
+			 
+			 
+			 
+		 System.out.println("Total:" + all);
+		 
+//		String Name1= "dog";
+//		String Nme2= "cat";
+//		String Name3= "rabit";
+//		
+//		String total= "Name1,Name2, Name3";{
+//			
+//			System.out.println(total);
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
