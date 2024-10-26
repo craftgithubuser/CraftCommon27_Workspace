@@ -8,6 +8,9 @@ int a =4;
 String name = "abel";
 System.out.println(a);
 System.out.println(name);
+
+
+System.out.println("how's going");
 	}
 
 }
