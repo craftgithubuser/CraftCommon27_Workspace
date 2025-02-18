@@ -1,0 +1,36 @@
+public class A{
+
+void add(int a, int b){
+System.out.println(a+b);
+}
+
+void add(double a, int b){
+System.out.println(a+b);
+}
+
+void add(double a, double b){
+System.out.println(a+b);
+}
+
+void add(int a, double b){
+System.out.println(a+b);
+}
+
+void add( int a, int b, int c){
+System.out.println(a+b+c);
+}
+
+void add( int a, int b, double c){
+System.out.println(a+b+c);
+}
+
+}
+
+public class MainClass{
+public void static main(String args []){
+
+  A  a1 = new A();
+     a1.add(10,10.5);
+
+}
+}
